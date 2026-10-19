@@ -1,0 +1,12 @@
+{
+    "input_shape": [
+        32,
+        32,
+        3
+    ],
+    "input_range": "0-255 uint8/float, preprocessing di dalam model",
+    "architecture": "Transfer Learning",
+    "test_accuracy": 0.9229999780654907,
+    "tensorflow_version": "2.21.0",
+    "python_version": "3.13.15"
+}

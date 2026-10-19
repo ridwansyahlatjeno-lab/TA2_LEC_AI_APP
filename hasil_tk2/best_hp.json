@@ -1,0 +1,10 @@
+{
+  "num_blocks": 3,
+  "initial_filters": 32,
+  "conv_dropout": 0.2,
+  "use_gap": false,
+  "dense_units": 512,
+  "dense_dropout": 0.5,
+  "learning_rate": 0.001,
+  "optimizer": "adam"
+}
